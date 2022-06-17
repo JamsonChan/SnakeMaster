@@ -1,5 +1,5 @@
 此遊戲使用 Python pygame 開發\
-遊戲影片：
+遊戲影片：https://youtu.be/337SSRAwbiA
 
 # 遊戲規則
 過關條件：無，能撐多久就撐多久\
