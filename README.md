@@ -1,6 +1,9 @@
 此遊戲使用 Python pygame 開發\
 遊戲影片：https://youtu.be/337SSRAwbiA
 
+# 待修復的Bug
+GameOver 時，若蛇的長度到一定長度，會造成爆炸動畫當機
+
 # 遊戲規則
 過關條件：無，能撐多久就撐多久\
 失敗條件：蛇超出遊戲畫面\
